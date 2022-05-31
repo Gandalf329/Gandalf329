@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="(https://github.com/Gandalf329)" target="_blank">Nikita👋</a>
+### Hi there 👋
 <!--
 **Gandalf329/Gandalf329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf329&layout=compact)](https://github.com/Gandalf329)
