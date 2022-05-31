@@ -32,6 +32,6 @@ const Nikita = {
 ``` 
 ## Git 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf329&layout=compact)](https://github.com/Gandalf329)
-  <img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" width="400"/>
 ## LeetCode 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gandalf329)](https://github.com/KnlnKS/leetcode-stats)
