@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
   <a href="https://t.me/Gandalf329"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Teleram Badge"/></a>
-
+<img src="https://media.giphy.com/media/DGaZTLF390Z0s/giphy.gif" height="50"/>
 <!--
 **Gandalf329/Gandalf329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
