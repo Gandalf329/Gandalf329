@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Teleram Badge"/>
+</div>
 <!--
 **Gandalf329/Gandalf329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
