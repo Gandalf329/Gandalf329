@@ -13,7 +13,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me...  
 
+```javascript
 
+const Nikita = {
+    pronounse: "He" | "Him",
+    codeIn: ["C#", "Python", "JavaScript"],
+    technologies: {
+        backEnd: {
+            cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
+            python: ["Django"]
+        },
+        frontEnd: ["JavaScript","HTML","CSS"],
+        databases: ["MS SQL Server", "MySql", "SQLite"]
+    },
+    hobbies: ["Movies","Sports", "Cooking", "Reading","Games"]
+};
+``` 
+## Git 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf329&layout=compact)](https://github.com/Gandalf329)
+## LeetCode 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gandalf329)](https://github.com/KnlnKS/leetcode-stats)
