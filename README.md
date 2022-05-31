@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 ```javascript
 
 const Nikita = {
-    pronounse: "He" | "Him",
     codeIn: ["C#", "Python", "JavaScript"],
     technologies: {
         backEnd: {
-            cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
+            cSharp: [".NET Core 5", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
             python: ["Django"]
         },
         frontEnd: ["JavaScript","HTML","CSS"],
