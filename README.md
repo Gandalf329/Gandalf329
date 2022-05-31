@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="(https://github.com/Gandalf329)" target="_blank">Nikita</a>
+<h1 align="center">Hi there, I'm <a href="(https://github.com/Gandalf329)" target="_blank">Nikita👋</a>
 <!--
 **Gandalf329/Gandalf329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
