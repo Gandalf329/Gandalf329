@@ -38,3 +38,4 @@ const Nikita = {
   <img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="150"/>
 ## LeetCode 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gandalf329)](https://github.com/KnlnKS/leetcode-stats)
+<img src="https://media.giphy.com/media/1PnpbQAOSTC4r7fciC/giphy.gif" height="150"/>
