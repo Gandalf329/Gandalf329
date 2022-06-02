@@ -39,5 +39,5 @@ const Nikita = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf329&layout=compact)](https://github.com/Gandalf329)
   <a href="https://github.com/Gandalf329"><img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="150"/></a>
 ## LeetCode 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gandalf329)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gandalf329)](https://leetcode.com/Gandalf329/)
 <a href="https://github.com/Gandalf329"><img src="https://media.giphy.com/media/1PnpbQAOSTC4r7fciC/giphy.gif" height="150"/></a>
