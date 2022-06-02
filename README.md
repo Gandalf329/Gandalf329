@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
   <a href="https://t.me/Gandalf329"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Teleram Badge"/></a>
-<img src="https://media.giphy.com/media/DGaZTLF390Z0s/giphy.gif" height="50"/>
+<a href="https://github.com/Gandalf329"><img src="https://media.giphy.com/media/DGaZTLF390Z0s/giphy.gif" height="50"/></a>
 <!--
 **Gandalf329/Gandalf329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,7 +37,7 @@ const Nikita = {
 ``` 
 ## Git 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf329&layout=compact)](https://github.com/Gandalf329)
-  <a href="https://t.me/Gandalf329"><img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="150"/></a>
+  <a href="https://github.com/Gandalf329"><img src="https://media.giphy.com/media/fQom5HUEHPz8q534S4/giphy.gif" height="150"/></a>
 ## LeetCode 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Gandalf329)](https://github.com/KnlnKS/leetcode-stats)
-<a href="https://t.me/Gandalf329"><img src="https://media.giphy.com/media/1PnpbQAOSTC4r7fciC/giphy.gif" height="150"/></a>
+<a href="https://github.com/Gandalf329"><img src="https://media.giphy.com/media/1PnpbQAOSTC4r7fciC/giphy.gif" height="150"/></a>
