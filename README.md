@@ -29,7 +29,7 @@ const Nikita = {
             cSharp: [".NET Core 5", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
             python: ["Django"]
         },
-        frontEnd: ["JavaScript","HTML","CSS"],
+        frontEnd: ["JavaScript","HTML","CSS","Vue.js 3"],
         databases: ["MS SQL Server", "MySql", "SQLite"]
     },
     hobbies: ["Movies","Sports", "Cooking", "Reading","Games"]
