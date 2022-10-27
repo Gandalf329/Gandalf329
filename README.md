@@ -27,7 +27,7 @@ const Nikita = {
     codeIn: ["C#", "Python", "JavaScript"],
     technologies: {
         backEnd: {
-            cSharp: [".NET Core 5", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
+            cSharp: [".NET Core 5, 6", ".NET Framework 4.8", "ASP.NET", "Entity Framework"],
             python: ["Django"]
         },
         frontEnd: ["JavaScript","HTML","CSS","Vue.js 3"],
