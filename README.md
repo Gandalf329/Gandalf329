@@ -31,7 +31,7 @@ const Nikita = {
             python: ["Django"]
         },
         frontEnd: ["JavaScript","HTML","CSS","Vue.js 3"],
-        databases: ["MS SQL Server", "MySql", "SQLite"]
+        databases: ["MS SQL Server", "MySql", "SQLite"],
         desktop: ["WinUI 3","WPF","WinForms","UWP"]
         
     },
