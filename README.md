@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C#, .Net, Algorithms, WinUI 3 and JavaScript
+- 🌱 I’m currently learning C#, .Net, Algorithms, WPF and JavaScript
 - 📫 Reach out to me and let's chat and collaborate!
 ### About me...  
 
@@ -32,7 +32,7 @@ const Nikita = {
         },
         frontEnd: ["JavaScript","HTML","CSS","Vue.js 3"],
         databases: ["MS SQL Server", "MySql", "SQLite"],
-        desktop: ["WinUI 3","WPF","WinForms","UWP"]
+        desktop: ["WPF","WinUI 3","WinForms","UWP"]
         
     },
     hobbies: ["Movies","Sports", "Cooking", "Reading","Games"]
